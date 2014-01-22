@@ -134,3 +134,17 @@ blockquote:before{
 blockquote p {
  	display:inline;
 }
+
+table{
+	border-collapse:collapse;
+}
+
+table,th, td{
+	border-bottom:1px solid #666;
+	padding:0 18px 0 18px;
+	text-align:left;
+}
+
+q{
+    quotes:none;
+}
