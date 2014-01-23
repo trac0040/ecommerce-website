@@ -149,3 +149,7 @@ table,th, td{
 q{
     quotes:none;
 }
+
+mark{
+	background-color:#0CF;
+}
