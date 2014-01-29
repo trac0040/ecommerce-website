@@ -3,12 +3,15 @@
 
 .lrg-promo{
 	border:dotted;
-	width:650px;
+	width:700px;
 	height:250px;
 	padding:2em;
+	background:-webkit-linear-gradient(120deg, rgba(204,204,204,0.4), #FFF);
+	background:-o-linear-gradient(120deg, rgba(204,204,204,0.4), #FFFe);
+	background:-moz-linear-gradient(120deg, rgba(204,204,204,0.4), #FFF);
+	background:linear-gradient(120deg, rgba(204,204,204,0.4), #FFF);
 }
 
 .details{
 	float:left;
-	padding-top:1.5em;
 }
