@@ -4,10 +4,10 @@
 .promo{
 	border:dotted;
 	padding:2em;
-	background:-webkit-linear-gradient(120deg, rgba(204,204,204,0.4), #FFF);
-	background:-o-linear-gradient(120deg, rgba(204,204,204,0.4), #FFFe);
-	background:-moz-linear-gradient(120deg, rgba(204,204,204,0.4), #FFF);
-	background:linear-gradient(120deg, rgba(204,204,204,0.4), #FFF);
+	background:-webkit-linear-gradient(120deg, rgba(204,204,204,0.6), #FFF);
+	background:-o-linear-gradient(120deg, rgba(204,204,204,0.6), #FFFe);
+	background:-moz-linear-gradient(120deg, rgba(204,204,204,0.6), #FFF);
+	background:linear-gradient(120deg, rgba(204,204,204,0.6), #FFF);
 }
 
 .lrg-promo{
