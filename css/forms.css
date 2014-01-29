@@ -6,9 +6,30 @@
 	border-width:1px;
 	border-style:solid;
 	border-color:#0CF;            
-	width:500px;
+	width:400px;
 	height:35px;
 	padding:10px;
-	margin:100px auto 50px;
 	overflow:hidden;
+}
+
+#search, #submit{
+	float:left;
+}
+
+#search{
+	padding:5px 9px;
+	height:23px;
+	width:280px;
+	border:1px solid #0CF;
+	box-shadow:0 1px 3px rgba(0, 0, 0, 0.25) inset, 0 1px 0 rgba(255, 255, 255, 1);            
+}
+
+#submit{	
+	background:#006;
+	color:#FFF;
+	height:35px;
+	margin:0 0 0 10px;
+    padding:0;
+	width:90px;
+	border:hidden;
 }
