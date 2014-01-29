@@ -1,3 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
 
+#searchbox{
+	background:#eaf8fc;
+	border-width:1px;
+	border-style:solid;
+	border-color:#c4d9df #a4c3ca #83afb7;            
+	width:500px;
+	height:35px;
+	padding:10px;
+	margin:100px auto 50px;
+	overflow:hidden;
+}

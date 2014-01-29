@@ -13,6 +13,7 @@
 	display:block
 }
 
-.list-group-item-inline{
+.lg-item-inline{
 	display:inline-block;
+	padding-right:2em;
 }
