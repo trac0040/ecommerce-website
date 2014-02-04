@@ -14,3 +14,20 @@ header{
 	display:block;
 	height:6em;
 }
+
+h1{
+	text-align:center;
+	color:#000;
+	margin:0;
+}
+
+.icon{
+	height:1em;
+}
+
+.icons{
+	height:1.5rem;
+	margin-left:0;
+	margin-right:auto;
+	text-align:center;
+}

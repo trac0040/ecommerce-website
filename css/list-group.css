@@ -2,7 +2,8 @@
 /* CSS Document */
 
 .list-group{
-	list-style-type:none;	
+	list-style-type:none;
+	padding:0;	
 }
 
 .list-group-item::before{
@@ -15,5 +16,4 @@
 
 .lg-item-inline{
 	display:inline-block;
-	padding-right:2em;
 }
