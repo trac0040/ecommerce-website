@@ -11,6 +11,14 @@ html{
   font:normal 100%/1.5 'Josefin Sans', sans-serif;
 }
 
+body{
+	margin:auto;
+}
+
+main{
+	margin:1.5rem;
+}
+
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr{
@@ -154,7 +162,16 @@ mark{
 	background-color:#0CF;
 }
 
-.gutter {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+.gutter{
+  padding-left:1.5rem;
+  padding-right:1.5rem;
 }
+
+.gutter-half, .gutter-1-2{
+  padding-left:0.75rem;
+  padding-right:0.75rem;
+}
+
+.gutter-double, .gutter-2{
+  padding-left:3rem;
+  padding-right:3rem;
