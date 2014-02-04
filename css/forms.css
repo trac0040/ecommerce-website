@@ -6,13 +6,14 @@
 	border-width:1px;
 	border-style:solid;
 	border-color:#0CF;            
-	width:400px;
+	width:100%;
 	height:35px;
 	padding:10px;
 	overflow:hidden;
 }
 
 #search, #submit{
+	font:normal 100%/1.5 'Josefin Sans', sans-serif;
 	float:left;
 }
 
