@@ -34,3 +34,7 @@ media-img-stacked{
 	margin-right:auto;
 	text-align:center;
 }
+
+.pad-img{
+	padding:0.25rem;
+}
