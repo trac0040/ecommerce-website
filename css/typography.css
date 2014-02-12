@@ -12,7 +12,7 @@
 /* CSS Document */
 
 html{
-  font:normal 100%/1.5 'Josefin Sans', sans-serif;
+	font:normal 100%/1.5 'Josefin Sans', sans-serif;
 }
 
 body{
@@ -167,15 +167,15 @@ mark{
 }
 
 .gutter{
-  padding-left:1.5rem;
-  padding-right:1.5rem;
+	padding-left:1.5rem;
+	padding-right:1.5rem;
 }
 
 .gutter-half, .gutter-1-2{
-  padding-left:0.75rem;
-  padding-right:0.75rem;
+	padding-left:0.75rem;
+	padding-right:0.75rem;
 }
 
 .gutter-double, .gutter-2{
-  padding-left:3rem;
-  padding-right:3rem;
+	padding-left:3rem;
+	padding-right:3rem;
