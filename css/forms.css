@@ -31,4 +31,5 @@
 
 #submit:hover{
 	color:#FFF;
+	transition:all 130ms linear;
 }

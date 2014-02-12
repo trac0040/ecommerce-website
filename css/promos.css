@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .promo{
-	border:dotted;
+	border:dotted #99CC33;
 	padding:2em;
 	background:-webkit-linear-gradient(120deg, rgba(204,204,204,0.6), #FFF);
 	background:-o-linear-gradient(120deg, rgba(204,204,204,0.6), #FFFe);
@@ -11,8 +11,7 @@
 }
 
 .lrg-promo{
-	width:700px;
-	height:250px;
+	width:100%;
 }
 
 .details{
