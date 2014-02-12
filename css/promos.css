@@ -8,17 +8,9 @@
 	background:-o-linear-gradient(120deg, rgba(204,204,204,0.6), #FFFe);
 	background:-moz-linear-gradient(120deg, rgba(204,204,204,0.6), #FFF);
 	background:linear-gradient(120deg, rgba(204,204,204,0.6), #FFF);
-}
-
-.lrg-promo{
-	width:100%;
+	wdith:100%;
 }
 
 .details{
 	float:left;
-}
-
-.sml-promo{
-	width:370px;
-	height:180px;
 }
