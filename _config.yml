@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /ecommerce-website
+exclude: ['README.md']
