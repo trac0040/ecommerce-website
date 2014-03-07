@@ -54,7 +54,7 @@
 	</div>
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
 		<ul class="list-group icons">
-			<li class="list-group-item lg-item-inline"><a class="current" href="{{site.baseurl}}/index.html">Home</a></li>
+			<li class="list-group-item lg-item-inline"><a class="{% if page.url == '/index.html' %}current{% endif %}" href="{{site.baseurl}}/index.html">Home</a></li>
 			<li class="list-group-item lg-item-inline"><a href="{{site.baseurl}}/about.html">About</a></li>
 			<li class="list-group-item lg-item-inline"><a href="{{site.baseurl}}/products.html">Products</a></li>
 		</ul>
