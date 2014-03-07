@@ -8,12 +8,22 @@ meta: Home page
 
 <hr class="unit-s-1 unit-m-1-3">
 
-{% include promo-small.html %}
-
 <p class="unit gutter-1-2 unit-s-1 unit-m-1-2 unit-l-1-3 unit-xl-1-4">Our store was recently established in 2014 by a small group of skilled designers. We strive for both originality and quality in our products, and we cater to both men and women alike, so you're sure to find something you like. We use genuine leather and other durable materials so our bags are built to last. Just in case we don't have you convinced yet, we back this up with a 5 year warranty on anything you purchase.</p>
 
-{% include promo-large.html %}
+<div class="grid">
 
-{% include promo-small.html %}
+	<div class="gutter unit unit-s-1 unit-m-1-3 unit-l-1-3">
+	{% include promo-large.html title="Receive a <strong>FREE</strong> genuine leather coinpurse when you spend $100 or more!" desc="Offer is valid until February 14th, 2014, purchase must be $100 before applicable taxes." %}
+	</div>
+	<div class="gutter unit unit-s-1 unit-m-1-3 unit-l-1-3">
+	{% include promo-small.html title="Promo 2" desc="The second description" %}
+	</div>
+	<div class="gutter unit unit-s-1 unit-m-1-3 unit-l-1-3">
+	{% include promo-small.html  title="Promo 3" desc="The third description" %}
+	</div>
+	<div class="gutter unit unit-s-1 unit-m-1-3 unit-l-1-3">
+	{% include promo-small.html  title="Promo 3" desc="The third description" %}
+	</div>
+	
+</div>
 
-{% include promo-small.html %}
