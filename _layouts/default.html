@@ -2,7 +2,8 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Ecommerce Website</title>
+	<title>{% if page.title %}{{page.title}} • {% endif %}Ecommerce Website</title>
+	<meta name="description" content="{{page.meta}}">
 	<meta name="handheldfriendly" content="true">
 	<meta name="mobileoptimized" content="240">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
