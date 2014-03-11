@@ -24,6 +24,11 @@
 <body>
 
 <header class="grid">
+
+{% if page.showbanner %}
+	{% include banner.html %}
+{% endif %}	
+
 	<div class="gutter-half unit unit-s-1 unit-m-1 unit-l-2-3">
 		<img class="logo" src="{{site.baseurl}}/images/logo.svg" alt="logo">
 		<h1>BAGS</h1>
