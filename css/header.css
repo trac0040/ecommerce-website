@@ -39,6 +39,8 @@ ul{
 .banner{
 	background-size:cover;
 	text-align:center;
-	padding:5em 2em 2em;
+	padding:7em 6em 6em;
 	background:#6e9d1b url("../images/banner.jpg") no-repeat center center;
+	margin-top:-0.75em;
+	margin-bottom:1.5em;
 }
