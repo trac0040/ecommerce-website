@@ -35,3 +35,10 @@ h1{
 ul{
 	text-align:center;
 }
+
+.banner{
+	background-size:cover;
+	text-align:center;
+	padding:5em 2em 2em;
+	background:#6e9d1b url("../images/banner.jpg") no-repeat center center;
+}
