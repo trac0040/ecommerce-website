@@ -1,6 +1,6 @@
 ---
 layout: products
-type: womens
-title: Purses
+category: womens
+name: Purses
 image:
 ---

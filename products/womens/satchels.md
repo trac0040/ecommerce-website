@@ -1,6 +1,6 @@
 ---
 layout: products
-type: womens
-title: Satchels
+category: womens
+name: Satchels
 image:
 ---

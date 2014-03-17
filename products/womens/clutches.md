@@ -1,6 +1,6 @@
 ---
 layout: products
-type: womens
-title: Clutches
+category: womens
+name: Clutches
 image:
 ---
