@@ -1,16 +1,16 @@
 ---
-layout: default
+layout: products
 title: Products
 ---
 
 <h1>Products</h1>
 
-<div class="grid unit unit-s-1 unit-m-1-2 unit-l-1-3 unit-xl-1-4">
-<h2>Men's</h2>
+<div class="grid unit unit-s-1 unit-m-1-1 unit-l-1-2 unit-xl-1-2">
+<a href="{{site.baseurl}}mens/mens.html"><h2>Men's</h2></a>
 	{% include product-list.html category='mens' %}
 </div>
 
-<div class="grid unit unit-s-1 unit-m-1-2 unit-l-1-3 unit-xl-1-4">
-<h2>Women's</h2>
-	{% include product-list.html catogory='womens' %}
+<div class="grid unit unit-s-1 unit-m-1-1 unit-l-1-2 unit-xl-1-2">
+<a href="{{site.baseurl}}womens/womens.html"><h2>Women's</h2>
+	{% include product-list.html category='womens' %}
 </div>
