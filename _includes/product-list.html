@@ -3,8 +3,8 @@
 		{% for product in site.pages %}
 			{% if product.category == include.category %}
 				<li>
-					<a href="{{site.baseurl}}/products/{{product.category}}">{{product.name}}
-					<img scr="{{site.baseurl}}/images/backpack.jpg" alt="">
+					<a href="{{site.baseurl}}{{product.url}}">{{product.name}}
+					<img src="{{site.baseurl}}/images/backpack.jpg" alt="">
 					</a>
 				</li>
 			{% endif %}
