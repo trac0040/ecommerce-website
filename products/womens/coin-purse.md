@@ -1,5 +1,5 @@
 ---
-layout: product-list
+layout: product-page
 category: womens
 name: Coin Purses
 image:
