@@ -4,7 +4,7 @@
 			{% if product.category == include.category %}
 				<li class="product media-img list-group-item">
 					<a href="{{site.baseurl}}{{product.url}}"><h5>{{product.name}}</h5></a>
-					<a href="{{site.baseurl}}{{product.url}}"><img class="img-flex" src="{{site.baseurl}}/images/{{page.image}}" alt=""></a>
+					<a href="{{site.baseurl}}{{product.url}}"><img class="img-flex" src="{{site.baseurl}}/images/{{product.image}}" alt=""></a>
 				</li>
 			{% endif %}
 		{% endfor %}
