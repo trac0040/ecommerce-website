@@ -2,5 +2,6 @@
 layout: product-page
 category: womens
 name: Cross Body
-image: images/backpack.jpg
+image: cross-body.jpg
+price: $30.99
 ---

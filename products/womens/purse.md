@@ -1,6 +1,7 @@
 ---
 layout: product-page
 category: womens
-name: Purses
-image: images/backpack.jpg
+name: Purse
+image: purse.jpg
+price: $24.99
 ---

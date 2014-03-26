@@ -1,6 +1,7 @@
 ---
 layout: product-page
 category: womens
-name: Satchels
-image: images/backpack.jpg
+name: Satchel
+image: satchel.jpg
+price: $22.99
 ---

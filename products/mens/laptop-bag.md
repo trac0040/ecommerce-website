@@ -1,6 +1,7 @@
 ---
 layout: product-page
 category: mens
-name: Laptop Bags
-image: images/backpack.jpg
+name: Laptop Bag
+image: laptop-bag.jpg
+price: $23.99
 ---

@@ -1,6 +1,7 @@
 ---
 layout: product-page
 category: mens
-name: Totes
-image: images/backpack.jpg
+name: Tote
+image: tote.jpg
+price: $19.99
 ---

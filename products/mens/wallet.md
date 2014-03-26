@@ -1,6 +1,7 @@
 ---
 layout: product-page
 category: mens
-name: Wallets
-image: images/backpack.jpg
+name: Wallet
+image: wallet-2.jpg
+price: $17.99
 ---
