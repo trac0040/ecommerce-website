@@ -2,10 +2,12 @@
 	<ul class="list-group lg-item-inline">
 		{% for product in site.pages %}
 			{% if product.category == include.category %}
+				<a href="{{site.baseurl}}{{product.url}}">
 				<li class="product media-img list-group-item">
-					<a href="{{site.baseurl}}{{product.url}}"><h5>{{product.name}}</h5></a>
-					<a href="{{site.baseurl}}{{product.url}}"><img class="img-flex" src="{{site.baseurl}}/images/{{product.image}}" alt=""></a>
+					<h5>{{product.name}}</h5>
+					<img class="img-flex" src="{{site.baseurl}}/images/{{product.image}}" alt="">
 				</li>
+				</a>
 			{% endif %}
 		{% endfor %}
 	</ul>
