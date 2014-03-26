@@ -9,5 +9,13 @@
 .product{
 	background-color:#c7c0ae;
 	border-radius:8px;
-	padding:1em;
+	border: 8px #9C3 solid;
+	padding:1.5em;
+}
+
+.product:hover,
+.product:focus,
+.product:active{
+	background-color: #9C3;
+	transition:250ms linear;
 }
