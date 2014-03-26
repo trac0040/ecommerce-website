@@ -1,12 +1,12 @@
-<div class="grid unit">
-	
+<div>
+	<ul class="list-group lg-item-inline">
 		{% for product in site.pages %}
 			{% if product.category == include.category %}
-				<div class="product media-img">
-					<a class="unit unit-s-1" href="{{site.baseurl}}{{product.url}}"><h5>{{product.name}}</h5></a>
-					<a class="unit unit-s-1" href="{{site.baseurl}}{{product.url}}"><img src="{{site.baseurl}}/images/backpack.jpg" alt=""></a>
-				</div>
+				<li class="product media-img list-group-item">
+					<a href="{{site.baseurl}}{{product.url}}"><h5>{{product.name}}</h5></a>
+					<a href="{{site.baseurl}}{{product.url}}"><img class="img-flex" src="{{site.baseurl}}/images/backpack.jpg" alt=""></a>
+				</li>
 			{% endif %}
 		{% endfor %}
-	
+	</ul>
 </div>
