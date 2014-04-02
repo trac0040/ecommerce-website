@@ -2,9 +2,9 @@
 
 User testing was conducted by {Marta Traczyk} on {April 2, 2014} between the times of {3pm} and {6pm} with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
+- {Thalia}
+- {Shelley}
+- {Thalia}
 - {Theresa Doe}
 - {Todd Doe}
 - {Taylor Doe}
@@ -19,35 +19,30 @@ User testing was conducted by {Marta Traczyk} on {April 2, 2014} between the tim
 
 ## Individual Results & Observations
 
-### {Jane Doe}
+### {Thalia}
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
-- etc.
+- {Tasks completed as expected using only the keyboard}
+- {No troubles for this part, just lots of links to get through}
 
-### {John Doe}
+### {Shelley}
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+- {Tasks were completed as expected using only the keyboard}
+- {No issues}
 
-### {Jordan Doe}
+### {Thalia}
 
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+- {VoiceOver was slightly more difficult}
+- {This could be due to a lack of experience using Voice Over though}
 
-### {Theresa Doe}
+### {Anita}
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
-- etc.
+- {Completed VoiceOver quite quickly}
+- {Did not run into any stumbling blocks}
 
-### {Todd Doe}
+### {Sarah}
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+- {Using keyboard only, got through tasks quickly}
+- {No notable problems}
 
 ### {Taylor Doe}
 
