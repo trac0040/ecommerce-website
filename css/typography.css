@@ -110,6 +110,17 @@ a:active{
 	border-bottom-color:#000;
 }
 
+a:hover,
+a:active,{
+	outline:none;
+}
+
+a:active,
+input:focus
+button:focus{
+	outline:3px solid #000;
+}
+
 ul{
 	list-style-type:none;
 }
