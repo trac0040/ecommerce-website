@@ -2,7 +2,9 @@
 layout: product-page
 category: mens
 name: Tote
+title: Tote
+meta: Tote page with price and description
 image: tote.jpg
 price: $19.99
-details: Detailed TOTE description goes here such as material it is made of, colours, dimensions, what it is best used for, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dapibus mattis cursus. Quisque ante sem, euismod in auctor ac, pharetra at lacus. Quisque auctor ac mauris sit amet interdum. Praesent suscipit dui quam, quis interdum mauris dapibus at. In vulputate magna ac sagittis suscipit. Ut tempor leo a diam vehicula, et congue odio adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+details: A simple little tote to get things from point A to point B without holding it all in your arms, such as beer, snacks, shoes and other miscellaneous products you might not want to hold in your backback or messenger bag.
 ---

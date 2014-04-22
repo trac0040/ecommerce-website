@@ -1,8 +1,10 @@
 ---
 layout: product-page
 category: mens
+title: Backpack
+meta: Men's backpack page with price and description
 name: Backpack
 image: backpack.jpg
 price: $67.99
-details: Detailed BACKPACK description goes here such as material it is made of, colours, dimensions, what it is best used for, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dapibus mattis cursus. Quisque ante sem, euismod in auctor ac, pharetra at lacus. Quisque auctor ac mauris sit amet interdum. Praesent suscipit dui quam, quis interdum mauris dapibus at. In vulputate magna ac sagittis suscipit. Ut tempor leo a diam vehicula, et congue odio adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+details: This backpack is small yet spacious. Made of quality materials, it is built to last and perfect for enough supplies for a while day out of the house on a hike or biking adventure. Lots of pockets for storage make things easy to organize and locate later.
 ---

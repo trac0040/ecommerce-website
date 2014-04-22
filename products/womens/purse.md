@@ -1,8 +1,10 @@
 ---
 layout: product-page
 category: womens
+title: Purse
+meta: Women's purse page with price and description
 name: Purse
 image: purse.jpg
 price: $24.99
-details: Detailed PURSE description goes here such as material it is made of, colours, dimensions, what it is best used for, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dapibus mattis cursus. Quisque ante sem, euismod in auctor ac, pharetra at lacus. Quisque auctor ac mauris sit amet interdum. Praesent suscipit dui quam, quis interdum mauris dapibus at. In vulputate magna ac sagittis suscipit. Ut tempor leo a diam vehicula, et congue odio adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+details: This pinkish beige purse is made of genuine leather and has a nice flat bottom so you can place it down anywhere without tipping it over and spilling its contents. Zipper closure is at the top, with three interior pockets.
 ---

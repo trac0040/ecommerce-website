@@ -1,8 +1,10 @@
 ---
 layout: product-page
 category: womens
+titel: Cross Body
+meta: Women's cross body bag page with price and description
 name: Cross Body
 image: cross-body.jpg
 price: $30.99
-details: Detailed CROSS BODY description goes here such as material it is made of, colours, dimensions, what it is best used for, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dapibus mattis cursus. Quisque ante sem, euismod in auctor ac, pharetra at lacus. Quisque auctor ac mauris sit amet interdum. Praesent suscipit dui quam, quis interdum mauris dapibus at. In vulputate magna ac sagittis suscipit. Ut tempor leo a diam vehicula, et congue odio adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+details: This structured black cross body bag is made of genuine leather with gold metal details. There is one small exterior pocket, two inner divided pockets plus one more interior pocket for holding your cellphone, so you can keep everything nice and organized.
 ---

@@ -1,8 +1,10 @@
 ---
 layout: product-page
+title: Satchel
+meta: Women's satchel page with price and description
 category: womens
 name: Satchel
 image: satchel.jpg
 price: $22.99
-details: Detailed SATCHEL description goes here such as material it is made of, colours, dimensions, what it is best used for, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dapibus mattis cursus. Quisque ante sem, euismod in auctor ac, pharetra at lacus. Quisque auctor ac mauris sit amet interdum. Praesent suscipit dui quam, quis interdum mauris dapibus at. In vulputate magna ac sagittis suscipit. Ut tempor leo a diam vehicula, et congue odio adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+details: This little satchel is made of genuine leather which means you can take it uot time and time again! With gold chain details and a small enough size to fit all your necessities, it's perfect for a night out with the girls.
 ---

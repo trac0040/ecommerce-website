@@ -1,8 +1,10 @@
 ---
 layout: product-page
 category: womens
+title: Clutch
+meta: Women's clutch page with price and description
 name: Clutch
 image: clutch.jpg
 price: $21.99
-details: Detailed CLUTCH description goes here such as material it is made of, colours, dimensions, what it is best used for, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dapibus mattis cursus. Quisque ante sem, euismod in auctor ac, pharetra at lacus. Quisque auctor ac mauris sit amet interdum. Praesent suscipit dui quam, quis interdum mauris dapibus at. In vulputate magna ac sagittis suscipit. Ut tempor leo a diam vehicula, et congue odio adipiscing. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+details: This clutch is perfect for a night out to hold your essentials. Made of genuine leather with a cute tassle detail and one extra inner pocket.
 ---

@@ -1,0 +1,31 @@
+Marta Traczyk
+
+                            
+trac0040@algonquinlive.com
+
+                            
+Images:
+
+All taken by Marta Traczyk, no copyright
+
+							
+Thanks:
+
+							
+Thomas J. Bradley for teaching how to use Jekyll & build a site
+                        
+
+                            
+Site:
+
+                            
+Last update: 2014/14/23
+
+                            
+Standards: HTML5, CSS3
+
+                            
+Components: Jekyll
+
+                            
+Software: Dreamweaver
